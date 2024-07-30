@@ -1,0 +1,21 @@
+﻿@model IEnumerable<GenAITech.Models.GenAI>
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> SignInManager
+@{
+    ViewData["Title"] = "AI Sites";
+}
+<link rel="stylesheet" type="text/css" href="~/css/AIs.css" />
+<section id="s1">
+    <header>Generative AI Technology</header>
+@{
+    if (SignInManager.IsSignedIn(User))
+    {
+        <a class="btn btn-link" href="/GenAIs/Create">Click here to add a new generative AI website. </a>
+    }
+    else
+    {
+        <p><i>Please<a class="btn btn-link" asp-area="Identity" asp-page="/Account/Login">Login</a>or <a class="btn btn-link" asp-area="Identity" asp-page="/Account/Register">Register</a> to add a new generative AI website.</i></p>
+    }
+}
+@**@
+</section>

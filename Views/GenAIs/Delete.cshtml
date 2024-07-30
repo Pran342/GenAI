@@ -1,0 +1,47 @@
+﻿@model GenAITech.Models.GenAI
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<link rel="stylesheet" type="text/css" href="~/css/edit.css" />
+<h1>Delete GenAI Website</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>GenAI</h4>
+    <hr />
+    <section>
+        <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.GenAIName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GenAIName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Summary)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Summary)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImageFileName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ImageFileName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AnchorLink)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AnchorLink)
+        </dd>
+    </dl>
+    </section>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

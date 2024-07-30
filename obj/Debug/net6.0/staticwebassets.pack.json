@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GenAITech.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GenAITech.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\AI_Jobs.css",
+      "PackagePath": "staticwebassets\\css\\AI_Jobs.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\AIs.css",
+      "PackagePath": "staticwebassets\\css\\AIs.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\GENORGsheet.css",
+      "PackagePath": "staticwebassets\\css\\GENORGsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\GenAIsheet.css",
+      "PackagePath": "staticwebassets\\css\\GenAIsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\GenAppsheet.css",
+      "PackagePath": "staticwebassets\\css\\GenAppsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\Gen_App.css",
+      "PackagePath": "staticwebassets\\css\\Gen_App.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\Gen_Org.css",
+      "PackagePath": "staticwebassets\\css\\Gen_Org.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\edit.css",
+      "PackagePath": "staticwebassets\\css\\edit.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\elastic-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\elastic-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\css\\stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\csv\\salaries2023.csv",
+      "PackagePath": "staticwebassets\\csv\\salaries2023.csv"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\Screenshot 2023-10-16 174436.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-10-16 174436.png"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\amazon_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\amazon_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\Blockchain3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\Blockchain3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\CloudComputing.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\CloudComputing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\Robotics2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\Robotics2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg5.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\background\\bg7.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\bard.jpg",
+      "PackagePath": "staticwebassets\\images\\bard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\chatgpt_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\chatgpt_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\dalle.jpg",
+      "PackagePath": "staticwebassets\\images\\dalle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\dalle_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\dalle_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\amazon_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\amazon_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\amazon_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\amazon_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\bard_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\bard_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\bard_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\bard_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\chatgpt_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\chatgpt_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\chatgpt_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\chatgpt_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\dalle_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\dalle_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\dalle_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\dalle_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\githubcopilot_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\githubcopilot_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\githubcopilot_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\githubcopilot_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\google_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\google_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\google_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\google_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\ibm_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\ibm_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\ibm_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\ibm_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\midjourney_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\midjourney_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\midjourney_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\midjourney_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\ms_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\ms_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\ms_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\ms_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\synthesia_large.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\synthesia_large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\synthesia_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\synthesia_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genai\\x.jpg",
+      "PackagePath": "staticwebassets\\images\\genai\\x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\amazon_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\amazon_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\bard.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\bard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\bard_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\bard_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\chatgpt.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\chatgpt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\chatgpt_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\chatgpt_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\dalle.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\dalle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\dalle_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\dalle_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\githubcopilot_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\githubcopilot_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\google.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\google.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\google_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\google_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\ibm_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\ibm_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\iot.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\iot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\job.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\job.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\microsoft.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\microsoft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\midjourney.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\midjourney.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\midjourney_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\midjourney_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\ms_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\ms_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\pie.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\pie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\synthesia_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\synthesia_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\genaisites\\x.jpg",
+      "PackagePath": "staticwebassets\\images\\genaisites\\x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\githubcopilot_thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\githubcopilot_thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\google.jpg",
+      "PackagePath": "staticwebassets\\images\\google.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\iot.jpg",
+      "PackagePath": "staticwebassets\\images\\iot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\is.jpg",
+      "PackagePath": "staticwebassets\\images\\is.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\is_small.jpg",
+      "PackagePath": "staticwebassets\\images\\is_small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\jewel.jpg",
+      "PackagePath": "staticwebassets\\images\\jewel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\jewel_small.jpg",
+      "PackagePath": "staticwebassets\\images\\jewel_small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\images\\pie.jpg",
+      "PackagePath": "staticwebassets\\images\\pie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\js\\elastic_grid.min.js",
+      "PackagePath": "staticwebassets\\js\\elastic_grid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\js\\mq.js",
+      "PackagePath": "staticwebassets\\js\\mq.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\prani\\OneDrive\\Desktop\\----\\GenAITech\\GenAITech\\wwwroot\\videos\\video.mp4",
+      "PackagePath": "staticwebassets\\videos\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GenAITech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GenAITech.props",
+      "PackagePath": "build\\GenAITech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GenAITech.props",
+      "PackagePath": "buildMultiTargeting\\GenAITech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GenAITech.props",
+      "PackagePath": "buildTransitive\\GenAITech.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

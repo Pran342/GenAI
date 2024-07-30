@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+<link rel="stylesheet" type="text/css" href="~/css/AI_Jobs.css" />
+
+<section id="s1">
+    <header>AI Jobs</header>
+    <h3>
+        AI job dataset: Insights AI-Jobs <br>
+        Python source for table and charts: Kaggle
+    </h3>
+</section>
+    <section id="s2">
+    <py-config>
+        packages = ["numpy", "matplotlib", "pandas", "seaborn"]
+    </py-config>
+    <py-script>
+        import pandas as pd
+        import numpy as np
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+        from pyodide.http import open_url
+        url = open_url('/csv/salaries2023.csv')
+        df = pd.read_csv(url)
+        display(df.head(n=7), target="output", append=False)
+    </py-script>
+    <py-script>
+        import pandas as pd
+        import numpy as np
+        import matplotlib.pyplot as plt
+        from pyodide.http import open_url
+        url = open_url('/csv/salaries2023.csv')
+        df = pd.read_csv(url)
+        top_jobs = df.job_title.value_counts()[: 7]
+        m = df.shape[0]
+        job_distribution = top_jobs*100/m
+        job_distribution.plot(kind = 'pie', autopct = '%1.0f%%', figsize = (18, 10))
+        plt.title('Job distribution among top 10 in demand job title')
+        display(plt, target="pie", append=False)
+    </py-script>
+    <py-script>
+        import pandas as pd
+        import numpy as np
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+        from pyodide.http import open_url
+        import warnings
+        url = open_url('/csv/salaries2023.csv')
+        df = pd.read_csv(url)
+        with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        sns.barplot(x = 'work_year', y = 'salary_in_usd', data = df, palette="tab10")
+        display(plt, target="chart", append=False)
+    </py-script>
+    <div id="output"></div>
+   <div id="pie"></div>
+   <div id="chart"></div>
+    
+</section>

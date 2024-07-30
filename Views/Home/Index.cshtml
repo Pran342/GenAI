@@ -1,0 +1,103 @@
+﻿@model IEnumerable<GenAITech.Models.GenAI>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> SignInManager
+<link rel="stylesheet" type="text/css" href="~/css/stylesheet.css" />
+<section id="s1">
+    <video id="bg_video" loop muted autoplay="autoplay" preload="auto">
+    <source src="~/videos/video.mp4" type="video/mp4">
+    </video>
+    <header>Generative AI Technology</header>
+    <h3>
+        Any time an AI technology is generating something on its own, it can be referred to as "generative AI."
+        This umbrella term includes learning algorithms that make predictions as well as those that can use
+        prompts to autonomously write articles and paint pictures.
+        <br /><i>Technopedia</i>
+    </h3>
+</section>
+<section id="s2">
+    <h2>GenAI Tools</h2>
+    
+    <figure id="img_GENT">
+        <img src="~/images/genaisites/bard_thumbnail.jpg" width="250">
+        <img src="~/images/genaisites/midjourney_thumbnail.jpg" width="250">
+    </figure>
+    <div class="textbox">
+        <p>
+            Generative AI tools refer to software or systems that use neural network techniques to
+            process and comprehend input data, subsequently producing meaningful responses.
+            Scribehow
+            <a href="/Home/GenAI_Tools">
+                <button id="btn">Read More</button>
+            </a>
+        </p>
+    </div>
+
+    <hr>
+    <figure id="img_GENO">
+        <img src="~/images/genai/ms_thumbnail.jpg" width="300">
+        <img src="~/images/genai/google_thumbnail.jpg" width="300">
+    </figure>
+    <div class="textbox">
+        <h2>GenAI Organisations</h2>
+        <p>
+            Generative AI Organizations like Microsoft, Google, Amazon and IBM have invested hundreds of
+            millions of dollars and massive compute power to build the foundational models on which services like
+            ChatGPT and others depend.
+            Gartner
+            <a href="/Home/GenAI_Organisations">
+                <button id="btn">Read More</button>
+            </a>
+        </p>
+    </div>
+    <hr>
+    <figure id="img_GENA">
+        <img src="~/images/genai/chatgpt_thumbnail.jpg" width="300">
+        <img src="~/images/genai/dalle_thumbnail.jpg" width="300">
+    </figure>
+    <div class="textbox">
+        <h2>GenAI Applications</h2>
+        <p>
+            Text: GPT-3, LaMDA, LLaMA, BLOOM and GPT-4.<br>
+            Code: OpenAI Codex.<br>
+            Images: DALL-E, Midjourney and Stable Diffusion.<br>
+            Video: Make-A-Video (Meta Platforms).<br>
+            Wikipedia
+            <a href="/Home/GenAI_Applications">
+                <button id="btn">Read More</button>
+            </a>
+        </p>
+    </div>
+    <hr>
+    <figure id="img_AI">
+        <img src="~/images/genaisites/pie.jpg" width="300">
+        <img src="~/images/genaisites/job.jpg" width="300">
+    </figure>
+    <div class="textbox">
+        <h2>AI Jobs</h2>
+        <p>
+            The prime source for jobs and talents in AI, ML, Data Science and Big Data:
+            <a href="https://ai-jobs.net/">Insights AI-Jobs.</a><br>
+            Python source for tables and charts:
+            <a href="https://www.kaggle.com/code/sowrabhghosh/data-science-salary-2020-22-analysis">Kaggle6</a>.<br>
+            <a href="/Home/AI_Jobs">
+                <button id="btn">Read More</button>
+            </a>
+        </p>
+    </div>
+    <hr>
+        <h2> List of Generative AI websites</h2>
+    @{
+        if (SignInManager.IsSignedIn(User))
+        {
+            <a class="btn btn-link" href="/GenAIs/Create">Click here to add a new generative AI website. </a>
+        }
+        else
+        {
+            <p><i>Please<a class="btn btn-link" asp-area="Identity" asp-page="/Account/Login">Login</a>or <a class="btn btn-link" asp-area="Identity" asp-page="/Account/Register">Register</a> to add a new generative AI website.</i></p>
+        }
+    }
+       @**@
+</section>

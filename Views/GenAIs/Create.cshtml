@@ -1,0 +1,58 @@
+﻿@model GenAITech.Models.GenAI
+
+@{
+    ViewData["Title"] = "Create";
+}
+<link rel="stylesheet" type="text/css" href="~/css/edit.css" /> 
+<h1>Add new GenAI Website</h1>
+<hr />
+<section>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="GenAIName" class="control-label"></label>
+                <input asp-for="GenAIName" class="form-control" />
+                <span asp-validation-for="GenAIName" class="text-danger"></span>
+                </div>
+           
+            <div class="form-group">
+                <label asp-for="Summary" class="control-label"></label>
+                <textarea asp-for="Summary" class="form-control" rows="5"></textarea> 
+                <span asp-validation-for="Summary" class="text-danger"></span>
+            </div>
+           <div class="form-group">
+                <label asp-for="ImageFileName" class="control-label" hidden></label>
+                <input asp-for="ImageFileName" class="form-control" type="hidden"/>
+                <span asp-validation-for="ImageFileName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnchorLink" class="control-label" hidden></label>
+                <input asp-for="AnchorLink" class="form-control" type="hidden" />
+                 <span asp-validation-for="AnchorLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Upload image file</label>
+                <input type="file" name="file" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Like" class="control-label" hidden></label>
+                <input asp-for="Like" class="form-control" type="hidden" />
+                <span asp-validation-for="Like" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</section>
+
+<div>
+    <a asp-action="Index">Back to GenAI websites</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
